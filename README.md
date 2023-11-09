@@ -50,14 +50,14 @@ Exemplo:
 
 **0, 0, 0, 0, 0, -25, 0, 0, 0, -50, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0**
 
-Há um carregamento de -25 no GDL 5 (não esqueça que contamos a partir do zero!). É o GDL y do nó 2.
-Há um carregamento de -50 no GDL 9. É o GDL y do nó 4.
-Há um carregamento de 10 no GDL 18. É o GDL x do nó 9.
+- Há um carregamento de -25 no GDL 5 (não esqueça que contamos a partir do zero!). É o GDL y do nó 2.
+- Há um carregamento de -50 no GDL 9. É o GDL y do nó 4.
+- Há um carregamento de 10 no GDL 18. É o GDL x do nó 9.
 
 ## Barras
 
 As barras devem ser editadas no arquivo **barras.csv**
-Deve-se inserir uma barra por nó com a seguinte convenção:
+Deve-se inserir uma barra por linha com a seguinte convenção:
 
 **E, A, p1, p2**
 
